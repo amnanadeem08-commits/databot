@@ -1,0 +1,37 @@
+{
+  "row_count": 1000,
+  "column_count": 23,
+  "null_counts": {
+    "Index": 0,
+    "Customer Id": 0,
+    "First Name": 0,
+    "Last Name": 0,
+    "Company": 0,
+    "City": 0,
+    "Country": 0,
+    "Phone 1": 0,
+    "Phone 2": 0,
+    "Email": 0,
+    "Subscription Date": 0,
+    "Website": 0,
+    "subscription_date_raw": 0,
+    "subscription_date_invalid_flag": 0,
+    "email_valid_flag": 0,
+    "phone_present_flag": 0,
+    "website_valid_flag": 0,
+    "full_name": 0,
+    "email_domain": 0,
+    "website_domain": 0,
+    "subscription_year": 0,
+    "subscription_month": 0,
+    "year_month": 0
+  },
+  "duplicate_rows": 0,
+  "outlier_capping": {
+    "Index": {
+      "lower_bound": -498.5,
+      "upper_bound": 1499.5,
+      "rows_capped": 0
+    }
+  }
+}

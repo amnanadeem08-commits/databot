@@ -1,0 +1,9 @@
+{
+  "insights": [
+    "The customer base currently includes 1000 unique records, providing a sufficient footprint for segmentation by geography and company.",
+    "Customer concentration is highest in Liechtenstein, which represents about 1.2% of all records, indicating potential market dependence on one geography.",
+    "The largest company segment is Walls Inc at roughly 0.2% of customers, helping prioritize partnership or account-management focus.",
+    "Data readiness is strong: approximately 100.0% of records appear contactable using both valid email format and phone presence.",
+    "Latest-month subscriptions changed by -47.1% versus the prior month, which can be used as an early signal for acquisition momentum."
+  ]
+}

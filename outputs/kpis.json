@@ -1,0 +1,11 @@
+{
+  "total_records": 1000.0,
+  "total_unique_customers": 1000.0,
+  "recent_month_subscriptions": 27.0,
+  "growth_vs_prior_month": -0.47058823529411764,
+  "top_country_share": 0.012,
+  "top_5_country_share": 0.049,
+  "top_company_share": 0.002,
+  "top_10_company_share": 0.018000000000000002,
+  "valid_contactability_rate": 1.0
+}
